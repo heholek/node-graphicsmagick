@@ -1,1 +1,1 @@
-# docker + alpine + nodejs + graphicsmagick
+# docker + debian + nodejs + graphicsmagick
